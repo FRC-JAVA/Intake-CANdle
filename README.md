@@ -1,3 +1,3 @@
 # README
 
-[Contribution guidelines for this project](docs/Intake-CANdle.md)
+[Contribution guidelines for this project](Intake-CANdle.md)
